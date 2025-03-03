@@ -1,20 +1,20 @@
 # Hi there 👋, 
-**I'm Marsha a Software Engineer specializing in AI and iOS Development**
+**I'm Trisha a Data Analyst and iOS Development**
 
 **Connect With Me**
 
 <div align="center">
-    <a href="https://www.instagram.com/marshalikorawung/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/marsha-alexis-likorawung-16b13a267/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-    <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-ED8B00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin-bottom: 4px;" height="30px" target="_blank"/>
-    </a>
+    <a href="https://www.instagram.com/trisha.likorawung/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/trisha-alexis-likorawung-45275b267/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<!--     <a href="https://portfolio-marsha.vercel.app/"><img src="https://img.shields.io/badge/portfolio-ED8B00?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" style="margin-bottom: 4px;" height="30px" target="_blank"/>
+    </a> -->
 </div>
 
 ## Statistics
 
 <div align="center">
-    <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marsh16&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=marsh16&langs_count=8&layout=compact&hide_border=true&theme=radical"/>
+    <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api?username=trsh16&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="154" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trsh16&langs_count=8&layout=compact&hide_border=true&theme=radical"/>
 </div>
 
 #### Languages, Tools, and Skills 🛠

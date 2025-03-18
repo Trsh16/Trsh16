@@ -1,5 +1,5 @@
 # Hi there 👋, 
-**I'm Trisha a Data Analyst and iOS Development**
+**I'm Trisha a Data Analyst and iOS Developer**
 
 **Connect With Me**
 
